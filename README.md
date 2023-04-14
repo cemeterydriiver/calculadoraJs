@@ -1,6 +1,7 @@
 # calculadoraJs🧮
 _CalculadoraJS é um simples aplicativo de calculadora construído em JavaScript, HTML e CSS. Ele suporta operações básicas como adição, subtração, multiplicação e divisão._
-[CLIQUE AQUI](https://cemeterydriiver.github.io/calculadoraJs/) para usar a calculadora!
+
+_[CLIQUE AQUI](https://cemeterydriiver.github.io/calculadoraJs/)_ para usar a calculadora!
 
 ## 🛠️Funcionalidades
 - Adição de números
@@ -15,6 +16,11 @@ _CalculadoraJS é um simples aplicativo de calculadora construído em JavaScript
 - Clique nos botões de operação para selecionar a operação a ser realizada.
 - Clique no botão C para limpar o visor da calculadora.
 - Clique no botão = para calcular o resultado da operação.
+
+### Disponível para:
+🖥️Desktop
+
+📱Aparelhos móveis
 
 ### ✍️Autores:
 [@cemeterydriiver](https://github.com/cemeterydriiver)
